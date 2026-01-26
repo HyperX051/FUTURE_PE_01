@@ -1,5 +1,14 @@
 # AI Website Copy Generator for Local Businesses
-**Created by:** [M.Aniruddha](https://www.linkedin.com/in/aniruddha-mattam/)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Internship](https://img.shields.io/badge/FutureInterns-Task%201-blue)
+![Role](https://img.shields.io/badge/Role-Prompt%20Engineering-orange)
+
+**Automated Marketing Workflow for "Qahwa Commons"**
+
+> **Developed by:** [Mattam Aniruddha](https://www.linkedin.com/in/aniruddha-mattam/) 👨‍💻  
+> **Batch:** January 2026
+
+
 **Submission for:** Future Interns Program (Prompt Engineering Task 1)
 
 ## 📌 Project Overview
